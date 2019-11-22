@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<meta http-equiv="refresh" content="10">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<body>
+<head>
+</script>
+<script>
+$(function(){
+    $.ajax({
+        url: '/time',
+        type: 'POST',
+        success: function(response) {
+            console.log(response);
+            $("#num").html(response);
+        },
+        error: function(error) {
+            console.log(error);
+        }
+    });
+});
+</script>
+<style>
+    body {
+        background-color: lightblue;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 45px;
+        font-family: Sans-Serif;
+    }
+   .data {
+
+        width: 400px;
+        height: 200px;
+        background: white;
+}
+</style>   
+</head>    
+<h1>Current Arduino Time</h1>
+<div>
+<pre id="output"></pre>
+</div>
+<script>
+    var output = document.getElementById('output');
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', '{{ url_for('sensor') }}');
+    xhr.send();
+
+    setInterval(function() {
+        output.textContent = xhr.responseText;
+    }, 1000);
+</script>
+<script>
+</script>
+</body>
+</html>
+

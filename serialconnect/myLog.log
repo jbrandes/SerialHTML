@@ -1,0 +1,861 @@
+127.0.0.1 - - [21/Nov/2019 20:04:34] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:34] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:34] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:43] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:45] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:04:52] "GET /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:07:26] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:35] "POST /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:07:36] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:47] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:56] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:10:57] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:21] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:30] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:13:31] "POST /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:17:39] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:17:48] "POST /time HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+Error on request:
+Traceback (most recent call last):
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/home/jordan/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 257, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [21/Nov/2019 20:23:03] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:23:03] "GET /time HTTP/1.1" 500 -
+127.0.0.1 - - [21/Nov/2019 20:23:03] "GET /time HTTP/1.1" 500 -
